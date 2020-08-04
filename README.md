@@ -17,7 +17,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact)
 
 ---
 
