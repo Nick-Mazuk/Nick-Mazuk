@@ -2,7 +2,7 @@
 
 <!-- This is definitely not markdown, but markdown isn't great for formatting -->
 
-<table border='none' style='border: none; border-collapse: collapse'>
+<table border='0' style='border: none; border-collapse: collapse'>
 <tr>
 <th> <img src='https://github-readme-stats.vercel.app/api?username=nick-mazuk&hide=contribs&count_private=true&show_icons=true&hide_title=true&layout=compact'> </th>
 <th> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact'> </th>
