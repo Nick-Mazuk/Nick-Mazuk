@@ -1,5 +1,3 @@
-# Hi there, I'm Nick Mazuk
-
 <!-- This is definitely not markdown, but markdown isn't great for formatting -->
 
 <table>
