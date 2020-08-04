@@ -1,5 +1,14 @@
 # Hi there, I'm Nick Mazuk
 
+<!-- This is definitely not markdown, but markdown isn't great for formatting -->
+
+<table>
+<tr>
+<th> <img src='https://github-readme-stats.vercel.app/api?username=nick-mazuk&hide=contribs&count_private=true&show_icons=true&hide_title=true&layout=compact'> </th>
+<th> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact'> </th>
+</tr>
+</table
+
 <p>
     <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
     <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
@@ -12,9 +21,6 @@
 </p>
 
 <br>
-
-<p><img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact'></p>
-<p><img align='left' src='https://github-readme-stats.vercel.app/api?username=nick-mazuk&hide=contribs&count_private=true&show_icons=true&hide_title=true&layout=compact'></p>
 
 <p><b>Connect with me:</b></p>
 
