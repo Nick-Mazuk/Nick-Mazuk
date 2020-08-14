@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<th> <img src='https://github-readme-stats.vercel.app/api?username=nick-mazuk&hide=contribs&count_private=true&show_icons=true&hide_title=true&layout=compact'> </th>
-<th> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact'> </th>
+<th> <img src='https://github-readme-stats.vercel.app/api?username=nick-mazuk&hide=contribs&count_private=true&show_icons=true&hide_title=true&layout=compact&hide_border=true'> </th>
+<th> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nick-mazuk&hide=java&layout=compact&hide_border=true'> </th>
 </tr>
 </table>
 
@@ -17,6 +17,10 @@
 <img align='left' alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png">
 
 <br />
+
+#### Popular Repos
+
+
 
 #### Connect with me:
 
