@@ -20,7 +20,7 @@
 
 #### Popular Repos:
 
-<table>
+<!-- <table>
 <tr>
 <th>
 
@@ -39,7 +39,11 @@
 
  </th>
 </tr>
-</table>
+</table> -->
+
+<a href='https://github.com/Nick-Mazuk/balanced-text'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=balanced-text&hide_border=true'></a>
+
+<a href='https://github.com/Nick-Mazuk/lightening-css'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=lightening-css&hide_border=true'></a>
 
 #### Connect with me:
 
