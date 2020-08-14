@@ -24,7 +24,7 @@
 <tr>
 <th>
 
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=balanced-text'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=balanced-text&layout=compact&hide_border=true'>
 
 [![npm](https://img.shields.io/npm/v/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
 [![npm](https://img.shields.io/npm/dm/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
@@ -32,7 +32,7 @@
 </th>
 <th> 
 
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=lightening-css'>
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=lightening-css&layout=compact&hide_border=true'>
 
 [![npm](https://img.shields.io/npm/v/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
 [![npm](https://img.shields.io/npm/dm/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
