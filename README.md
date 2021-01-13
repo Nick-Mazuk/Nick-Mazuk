@@ -24,35 +24,22 @@
 <tr>
 <th>
 
-<a href='https://github.com/Nick-Mazuk/balanced-text'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=balanced-text&hide_border=true'></a>
+<a href='https://github.com/Nick-Mazuk/ui-components'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=ui-components&hide_border=true'></a>
 
-[![npm](https://img.shields.io/npm/v/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
-[![npm](https://img.shields.io/npm/dm/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
+[![npm](https://img.shields.io/npm/v/@nick-mazuk/ui.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui)
+[![npm](https://img.shields.io/npm/dm/@nick-mazuk/ui.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui)
 
 </th>
 <th> 
 
-<a href='https://github.com/Nick-Mazuk/lightening-css'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=lightening-css&hide_border=true'></a>
+<a href='https://github.com/Nick-Mazuk/library'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=library&hide_border=true'></a>
 
-[![npm](https://img.shields.io/npm/v/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
-[![npm](https://img.shields.io/npm/dm/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
+[![npm](https://img.shields.io/npm/v/@nick-mazuk/lib.svg?style=flat-square)](https://www.npmjs.com/paclib/@nick-mazuk/lib)
+[![npm](https://img.shields.io/npm/dm/@nick-mazuk/lib.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/lib)
 
  </th>
 </tr>
 </table>
-
-<!-- <span>
-<a href='https://github.com/Nick-Mazuk/balanced-text'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=balanced-text&hide_border=true'></a>
-
-[![npm](https://img.shields.io/npm/v/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
-[![npm](https://img.shields.io/npm/dm/balanced-text.svg?style=flat-square)](https://www.npmjs.com/package/balanced-text)
-</span>
-<span>
-<a href='https://github.com/Nick-Mazuk/lightening-css'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=lightening-css&hide_border=true'></a>
-
-[![npm](https://img.shields.io/npm/v/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
-[![npm](https://img.shields.io/npm/dm/lightening-css.svg?style=flat-square)](https://www.npmjs.com/package/lightening-css)
-</span> -->
 
 #### Connect with me:
 
