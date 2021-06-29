@@ -24,10 +24,10 @@
 <tr>
 <th>
 
-<a href='https://github.com/Nick-Mazuk/ui-components'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=ui-components&hide_border=true'></a>
+<a href='https://github.com/Nick-Mazuk/ui-svelte'><img src='https://github-readme-stats.vercel.app/api/pin/?username=nick-mazuk&repo=ui-svelte&hide_border=true'></a>
 
-[![npm](https://img.shields.io/npm/v/@nick-mazuk/ui.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui)
-[![npm](https://img.shields.io/npm/dm/@nick-mazuk/ui.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui)
+[![npm](https://img.shields.io/npm/v/@nick-mazuk/ui-svelte.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui-svelte)
+[![npm](https://img.shields.io/npm/dm/@nick-mazuk/ui-svelte.svg?style=flat-square)](https://www.npmjs.com/package/@nick-mazuk/ui-svelte)
 
 </th>
 <th> 
